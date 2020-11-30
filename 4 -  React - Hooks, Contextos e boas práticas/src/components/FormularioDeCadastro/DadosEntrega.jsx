@@ -71,7 +71,7 @@ function DadosEntrega({ aoEnviar }) {
         margin="normal"
         type="text"
       />
-      <Button fullWidth type="submit" variant="contained" color="secondary">
+      <Button fullWidth type="submit" variant="contained" color="primary">
         Finalizar cadastro
       </Button>
     </form>
